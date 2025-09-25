@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: PAF 514 Test Website
 
 # Your name to show in the footer
-author: Some Person
+author: Terra Bolyen
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Getting Started: "getstarted" 
+  Table Demo: "table-demo" 
 
 # --- Logo --- #
 
@@ -39,12 +40,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "tbolyen1@asu.edu"
+  facebook: ""
+  github: ""
+  twitter: ""
+  patreon: ""
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -99,16 +100,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#155263"
+navbar-text-col: "white"
+navbar-border-col: "#155263"
+page-col: "#ff6f3c"
+text-col: "white"
+link-col: "#ffc93c"
+hover-col: "#ff9a3c"
+footer-col: "#155263"
+footer-text-col: "#ffc93c"
+footer-link-col: "white"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
